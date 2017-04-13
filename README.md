@@ -1,2 +1,2 @@
-# arduino-mouse-keyboard
-Control a keyboard and mouse with a joystick, using an arduino.
+# arduino-mouse
+Sketch for using a MAME/arcade controller, two push buttons, all to simulate a mouse on an Arduino Micro.
